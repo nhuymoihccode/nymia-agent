@@ -1,0 +1,11 @@
+{
+  "resort_name": "NYMIA RETREAT",
+  "rooms": [
+    {"id": "101", "type": "Deluxe Ocean", "status": "occupied", "price": 1500000},
+    {"id": "102", "type": "Deluxe Ocean", "status": "available", "price": 1500000},
+    {"id": "201", "type": "Bungalow Garden", "status": "available", "price": 2500000},
+    {"id": "202", "type": "Bungalow Garden", "status": "occupied", "price": 2500000},
+    {"id": "301", "type": "Villa Pool", "status": "available", "price": 5000000}
+  ],
+  "total_revenue_today": 4000000
+}
